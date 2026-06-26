@@ -1,0 +1,14 @@
+# build 
+
+docker build -t ritiktyagiai/docker-test-app .
+
+# run 
+docker run -p 5000:5000 docker-test-app
+
+
+# push 
+
+docker login
+docker tag ritiktyagi/docker-test-app:latest
+docker images
+docker push ritiktyagi/docker-test-app:latest
