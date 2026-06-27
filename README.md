@@ -97,6 +97,15 @@ If you want to publish the built image to your remote Docker Hub registry, follo
 
 ---
 
-# Thanks
-- Made with love by Ritik Tyagi
+## 📜 License
+
+This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
+
+
+
+## ❤️ Credits
+
+Made with ❤️ by **Ritik Tyagi**  
+If you find this project useful, consider giving it a ⭐ on GitHub!
+
 
